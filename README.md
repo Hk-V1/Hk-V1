@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Harleen Kaur, an **Aspiring Data Scientist**.
+# 👋 Hi, I'm Harleen Kaur. 
+
+**Aspiring Data Scientist**.
 
 [![Gmail](https://img.shields.io/badge/Gmail-hk22.work@gmail.com-red?style=flat-square&logo=gmail)](mailto:hk22.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harleen-kaur-b94099257/) 
