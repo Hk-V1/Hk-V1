@@ -75,7 +75,8 @@ Feel free to explore my repositories for more projects!
 ## 🤝 Let's Connect
 
 - 📫 Email: hk22.work@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/harleen-kaur-b94099257/) 
+- [LinkedIn](https://www.linkedin.com/in/harleen-kaur-b94099257/)
+- [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Hk-V1/Hk-V1/raw/main/HK_Resume.pdf)
 - 📍 Delhi, India
 
 ---
