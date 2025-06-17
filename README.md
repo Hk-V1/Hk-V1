@@ -26,6 +26,11 @@ As President of Nexus - The AI Society and an active mentor in Google Developer 
 ## Achievements
 
 - 🥉 **3rd Place** - Smart Delhi Ideathon 2025 (Theme: Women Safety)
+
+---
+
+## Roles and Responsibilities
+
 - 🤝 **President** - Nexus, The AI Society (2024-2025)
 - 🗣️ **Mentor** - Google Developer Groups on Campus, Content Team (2024-2025)
 - 🎓 **Class Representative** - AI & ML Batch (2022-2026)
