@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Hi, I'm Harleen Kaur
 
-<!--
-**Hk-V1/Hk-V1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Scientist**
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/Gmail-hk22.work@gmail.com-red?style=flat-square&logo=gmail)](mailto:hk22.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harleen-kaur-b94099257/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm Harleen Kaur, an aspiring Data Scientist with hands-on experience in developing AI and ML solutions. I love using data to solve real-world challenges, and I'm passionate about building intelligent systems that drive impact—currently pursuing a BTech in Artificial Intelligence & Machine Learning at GTBIT, GGSIPU (CGPA: 8.3), and I have interned as an AI Project Intern at Sohan Lal Commodity Management Pvt. Ltd., where I contributed to AI-driven projects and model development.
+
+As President of Nexus - The AI Society and an active mentor in Google Developer Groups on campus, I thrive in collaborative environments, combining technical expertise with leadership and communication skills.
+
+---
+
+## 💻 Tech Stack & Skills
+
+- **Programming:** Python, R,  C/C++
+- **Analytics Tools:** Power BI, Tableau, Advanced Excel
+- **AI/ML:** Model development, Data analysis, Image & Text Detection, Data Preprocessing
+- **Databases:** SQL
+- **Soft Skills:** Problem-solving, Team collaboration, Adaptability, Time management
+
+---
+
+## Achievements
+
+- 🥉 **3rd Place** - Smart Delhi Ideathon 2025 (Theme: Women Safety)
+- 🤝 **President** - Nexus, The AI Society (2024-2025)
+- 🗣️ **Mentor** - Google Developer Groups on Campus, Content Team (2024-2025)
+- 🎓 **Class Representative** - AI & ML Batch (2022-2026)
+
+---
+
+## 📚 Certifications
+
+- The Data Science Course: Complete Data Science Bootcamp (Udemy, 2024)
+- Advanced Excel with Data Visualization (E & ICT Academy, IIT Kanpur, 2024)
+
+---
+
+## 🔗 Featured Projects
+
+Here are some of my major projects hosted on GitHub:
+
+### [📊 Statistical Analysis using R](https://github.com/Hk-V1/Statistical-Analysis-using-R)
+- Explores statistical methods and data analysis with R and HTML.
+
+### [🗂️ Personalized Task Manager](https://github.com/Hk-V1/Personalized-Task-Manager)
+- A Python-based task manager to boost productivity, featuring personalized workflows.
+
+### [😃 Face Detector](https://github.com/Hk-V1/Face-Detector)
+- AI-powered face detection using machine learning techniques in Python.
+
+### [🔍 Text Detector & Extractor](https://github.com/Hk-V1/Text-Detector-Extractor)
+- Extracts and detects text from images using Python-based OCR.
+
+Feel free to explore my repositories for more projects!
+
+---
+
+## 🌱 Currently Learning
+
+- Deep Learning & Neural Networks
+- Advanced-Data Visualization
+- Large Language Models (LLMs)
+
+---
+
+## 🤝 Let's Connect
+
+- 📫 Email: hk22.work@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/harleen-kaur-b94099257/) 
+- 📍 Delhi, India
+
+---
+
+> “Turning data into actionable insight is my passion. Let’s build something great together!”
