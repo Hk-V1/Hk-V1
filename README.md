@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm Harleen Kaur, an aspiring Data Scientist with hands-on experience in developing AI and ML solutions. I love using data to solve real-world challenges, and I'm passionate about building intelligent systems that drive impact—currently pursuing a BTech in Artificial Intelligence & Machine Learning at GTBIT, GGSIPU, and I have interned as an AI Project Intern at Sohan Lal Commodity Management Pvt. Ltd., where I contributed to AI-driven projects and model development.
+I'm Harleen Kaur, an aspiring Data Scientist with hands-on experience in developing AI and ML solutions. I love using data to solve real-world challenges, and I'm passionate about building intelligent systems that drive impact—currently pursuing a BTech in Artificial Intelligence & Machine Learning at GTBIT, GGSIPU, and I have interned as an AI Project Intern at Sohan Lal Commodity Management Ltd., where I contributed to AI-driven projects and model development.
 
 ---
 
