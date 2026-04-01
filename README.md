@@ -3,7 +3,7 @@
 **Aspiring Data Scientist**.
 
 [![Gmail](https://img.shields.io/badge/Gmail-hk22.work@gmail.com-red?style=flat-square&logo=gmail)](mailto:hk22.work@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harleen-kaur-b94099257/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/hk22]) 
 
 ---
 
@@ -76,7 +76,7 @@ CCICT 2025, Sonepat, India
 ## Let's Connect
 
 - Email: hk22.work@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/harleen-kaur-b94099257/)
+- [LinkedIn](https://www.linkedin.com/in/hk22)
 - [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Hk-V1/Hk-V1/raw/main/Harleen_Kaur_Resume.pdf)
 - Delhi, India
 
