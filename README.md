@@ -9,16 +9,17 @@
 
 ## 🚀 About Me
 
-I'm Harleen Kaur, an aspiring Data Scientist with hands-on experience in developing AI and ML solutions. I love using data to solve real-world challenges, and I'm passionate about building intelligent systems that drive impact-currently pursuing a BTech in Artificial Intelligence & Machine Learning at GTBIT, GGSIPU, and I have interned as an AI Project Intern at Sohan Lal Commodity Management Ltd., where I contributed to AI-driven projects and model development.
+I'm Harleen Kaur, an aspiring Data Scientist with hands-on experience in developing AI and ML solutions. I love using data to solve real-world challenges, and I'm passionate about building intelligent systems that drive impact.
 
 ---
 
 ## 💻 Tech Stack & Skills
 
-- **Programming:** Python, R,  C/C++
+- **Programming:** Python, R,  C/C++, Java
+- **ML/DL Frameworks:** PyTorch, Tensorflow, scikit-learn, Hugging Face Transformers, OpenCV, XAI
 - **Analytics Tools:** Power BI, Tableau, Advanced Excel
-- **AI/ML:** Model development, Data analysis, Image & Text Detection, Data Preprocessing
-- **Databases:** SQL
+- **Cloud & MLOps:** AWS (EC2), FastAPI, REST APIs, Git
+- **Databases:** SQL, PostgresSQL
 - **Soft Skills:** Problem-solving, Team collaboration, Adaptability, Time management
 
 ---
@@ -39,8 +40,9 @@ I'm Harleen Kaur, an aspiring Data Scientist with hands-on experience in develop
 
 ## 📚 Certifications
 
-- The Data Science Course: Complete Data Science Bootcamp (Udemy, 2024)
-- Advanced Excel with Data Visualization (E & ICT Academy, IIT Kanpur, 2024)
+- A Deep Understanding of AI Large Language Model Mechanisms — Udemy, 2025
+- The Data Science Course: Complete Data Science Bootcamp — Udemy, 2024
+- Advanced Excel with Data Visualization — E & ICT Academy, IIT Kanpur, 2024
 
 ---
 
@@ -48,27 +50,26 @@ I'm Harleen Kaur, an aspiring Data Scientist with hands-on experience in develop
 
 Here are some of my major projects hosted on GitHub:
 
-### [📊 Statistical Analysis using R](https://github.com/Hk-V1/Statistical-Analysis-using-R)
-- Explores statistical methods and data analysis with R and HTML.
+**Explainable Transformer Chatbot & Attention Visualizer** *(Python, Hugging Face, PyTorch, Matplotlib, Explainable AI)*
+Built a transformer-based chatbot with attention visualization to enhance interpretability and user trust. Developed interactive tools to visualize transformer attention heads, improving debugging and transparency in NLP applications.
 
-### [🗂️ Personalized Task Manager](https://github.com/Hk-V1/Personalized-Task-Manager)
-- A Python-based task manager to boost productivity, featuring personalized workflows.
+**Seal Detection Module — Mobility Web Application** *(AI/ML, Python, UI/UX)*
+Contributed to testing and validation of the seal detection module within a mobility web app. Provided UI/UX feedback to improve usability and detection accuracy.
 
-### [😃 Face Detector](https://github.com/Hk-V1/Face-Detector)
-- AI-powered face detection using machine learning techniques in Python.
+**Image Quality Analysis** *(Python, OpenCV, TensorFlow, Image Processing)*
+Implemented algorithms to assess image clarity, brightness, and sharpness for quality assurance. Applied deep learning techniques to classify low-quality images, supporting automated filtering systems.
 
-### [🔍 Text Detector & Extractor](https://github.com/Hk-V1/Text-Detector-Extractor)
-- Extracts and detects text from images using Python-based OCR.
+**Statistical Analysis using R** — [GitHub](https://github.com/Hk-V1/Statistical-Analysis-using-R)
+Explores statistical methods and data analysis using R.
 
 Feel free to explore my repositories for more projects!
 
 ---
 
-## 🌱 Currently Learning
+## Publication
 
-- Deep Learning & Neural Networks
-- Advanced-Data Visualization
-- Large Language Models (LLMs)
+**An Analysis of Genetic Disorders using Artificial Intelligence (AGD-AI)**
+CCICT 2025, Sonepat, India
 
 ---
 
