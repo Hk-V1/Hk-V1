@@ -40,9 +40,9 @@ I'm Harleen Kaur, an aspiring Data Scientist with hands-on experience in develop
 
 ## Certifications
 
-- A Deep Understanding of AI Large Language Model Mechanisms — Udemy, 2025
-- The Data Science Course: Complete Data Science Bootcamp — Udemy, 2024
-- Advanced Excel with Data Visualization — E & ICT Academy, IIT Kanpur, 2024
+- A Deep Understanding of AI Large Language Model Mechanisms - Udemy, 2025
+- The Data Science Course: Complete Data Science Bootcamp - Udemy, 2024
+- Advanced Excel with Data Visualization - E & ICT Academy, IIT Kanpur, 2024
 
 ---
 
@@ -50,16 +50,16 @@ I'm Harleen Kaur, an aspiring Data Scientist with hands-on experience in develop
 
 Here are some of my major projects hosted on GitHub:
 
-**Explainable Transformer Chatbot & Attention Visualizer** *(Python, Hugging Face, PyTorch, Matplotlib, Explainable AI)*
+- **Explainable Transformer Chatbot & Attention Visualizer** *(Python, Hugging Face, PyTorch, Matplotlib, Explainable AI)*
 Built a transformer-based chatbot with attention visualization to enhance interpretability and user trust. Developed interactive tools to visualize transformer attention heads, improving debugging and transparency in NLP applications.
 
-**Seal Detection Module — Mobility Web Application** *(AI/ML, Python, UI/UX)*
+- **Seal Detection Module - Mobility Web Application** *(AI/ML, Python, UI/UX)*
 Contributed to testing and validation of the seal detection module within a mobility web app. Provided UI/UX feedback to improve usability and detection accuracy.
 
-**Image Quality Analysis** *(Python, OpenCV, TensorFlow, Image Processing)*
+- **Image Quality Analysis** *(Python, OpenCV, TensorFlow, Image Processing)*
 Implemented algorithms to assess image clarity, brightness, and sharpness for quality assurance. Applied deep learning techniques to classify low-quality images, supporting automated filtering systems.
 
-**Statistical Analysis using R** — [GitHub](https://github.com/Hk-V1/Statistical-Analysis-using-R)
+- **Statistical Analysis using R** - [GitHub](https://github.com/Hk-V1/Statistical-Analysis-using-R)
 Explores statistical methods and data analysis using R.
 
 Feel free to explore my repositories for more projects!
