@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harleen Kaur. 
+# Hi, I'm Harleen Kaur. 
 
 **Aspiring Data Scientist**.
 
@@ -7,13 +7,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm Harleen Kaur, an aspiring Data Scientist with hands-on experience in developing AI and ML solutions. I love using data to solve real-world challenges, and I'm passionate about building intelligent systems that drive impact.
 
 ---
 
-## 💻 Tech Stack & Skills
+## Tech Stack & Skills
 
 - **Programming:** Python, R,  C/C++, Java
 - **ML/DL Frameworks:** PyTorch, Tensorflow, scikit-learn, Hugging Face Transformers, OpenCV, XAI
@@ -26,19 +26,19 @@ I'm Harleen Kaur, an aspiring Data Scientist with hands-on experience in develop
 
 ## Achievements
 
-- 🥉 **3rd Place** - Smart Delhi Ideathon 2025 (Theme: Women Safety)
+- **3rd Place** - Smart Delhi Ideathon 2025 (Theme: Women Safety)
 
 ---
 
 ## Roles and Responsibilities
 
-- 🤝 **President** - Nexus, The AI Society (2024-2025)
-- 🗣️ **Mentor** - Google Developer Groups on Campus, Content Team (2024-2025)
-- 🎓 **Class Representative** - AI & ML Batch (2022-2026)
+- **President** - Nexus, The AI Society (2024-2025)
+- **Mentor** - Google Developer Groups on Campus, Content Team (2024-2025)
+- **Class Representative** - AI & ML Batch (2022-2026)
 
 ---
 
-## 📚 Certifications
+## Certifications
 
 - A Deep Understanding of AI Large Language Model Mechanisms — Udemy, 2025
 - The Data Science Course: Complete Data Science Bootcamp — Udemy, 2024
@@ -46,7 +46,7 @@ I'm Harleen Kaur, an aspiring Data Scientist with hands-on experience in develop
 
 ---
 
-## 🔗 Featured Projects
+## Featured Projects
 
 Here are some of my major projects hosted on GitHub:
 
@@ -73,12 +73,12 @@ CCICT 2025, Sonepat, India
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-- 📫 Email: hk22.work@gmail.com
+- Email: hk22.work@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/harleen-kaur-b94099257/)
 - [![Resume](https://img.shields.io/badge/Resume-View-blue)](https://github.com/Hk-V1/Hk-V1/raw/main/Harleen_Kaur_Resume.pdf)
-- 📍 Delhi, India
+- Delhi, India
 
 ---
 
